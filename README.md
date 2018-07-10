@@ -1,7 +1,5 @@
-- Clean Architecture Implementation Example for Android in Kotlin using Dagger2.
+# Clean Architecture Implementation Example for Android in Kotlin using Dagger2 and AndroidX libraries #
 
-Fork of https://github.com/android10/Android-CleanArchitecture-Kotlin
+## Fork of https://github.com/android10/Android-CleanArchitecture-Kotlin with updated dependencies and usage of AndroidX. ##
 
-with updated dependencies and usage of AndroidX.
-
-Full credits to the author of the original package - Fernando Cejas
+## Full credits to the author of the original package - Fernando Cejas ##
